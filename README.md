@@ -1,4 +1,4 @@
-# internal_group_meeting
+# Internal meeting 
 Official group meeting seminars and related materials.
 
 
