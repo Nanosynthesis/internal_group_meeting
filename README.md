@@ -1,2 +1,8 @@
 # internal_group_meeting
-Official group meeting seminar
+Official group meeting seminars and related materials.
+
+
+## Meeting slides
+1. 20230407.xxx.xxxx.xxxxxxxxx.xx
+
+
